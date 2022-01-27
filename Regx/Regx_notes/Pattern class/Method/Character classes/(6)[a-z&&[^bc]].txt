@@ -1,0 +1,1 @@
+a through z, except for b and c: [ad-z] (subtraction)

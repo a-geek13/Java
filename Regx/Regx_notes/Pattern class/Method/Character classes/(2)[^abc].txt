@@ -1,0 +1,1 @@
+Any character except a, b, or c (negation)

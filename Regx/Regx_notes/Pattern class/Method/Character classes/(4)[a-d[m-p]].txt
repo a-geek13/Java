@@ -1,0 +1,1 @@
+a through d, or m through p: [a-dm-p] (union)
