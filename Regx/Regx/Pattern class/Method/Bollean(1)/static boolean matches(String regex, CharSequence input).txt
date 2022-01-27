@@ -1,0 +1,1 @@
+It works as the combination of compile and matcher methods. It compiles the regular expression and matches the given input with the pattern.

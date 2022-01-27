@@ -1,0 +1,1 @@
+compiles the given regex and returns the instance of the Pattern.

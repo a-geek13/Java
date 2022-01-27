@@ -1,0 +1,1 @@
+splits the given input string around matches of given pattern

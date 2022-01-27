@@ -1,0 +1,1 @@
+Regx is used to perform match operations on a character sequence.
