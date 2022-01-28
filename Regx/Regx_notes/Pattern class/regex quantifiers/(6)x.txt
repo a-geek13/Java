@@ -1,0 +1,1 @@
+X(y,z) : x occurs at least y times but less than z times

@@ -1,0 +1,1 @@
+X{n,} :x occurs n or more times

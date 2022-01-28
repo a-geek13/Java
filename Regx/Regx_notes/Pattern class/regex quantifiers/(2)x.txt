@@ -1,0 +1,1 @@
+x+ : X occurs once or more times

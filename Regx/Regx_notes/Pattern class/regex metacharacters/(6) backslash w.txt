@@ -1,0 +1,1 @@
+\w : Any word character, short for [a-zA-Z_0-9]

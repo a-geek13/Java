@@ -1,0 +1,1 @@
+\S :	Any non-whitespace character, short for [^\s]

@@ -1,0 +1,1 @@
+\D :	Any non-digit, short for [^0-9]

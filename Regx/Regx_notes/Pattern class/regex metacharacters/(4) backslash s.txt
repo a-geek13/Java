@@ -1,0 +1,1 @@
+\s :	Any whitespace character, short for [\t\n\x0B\f\r]

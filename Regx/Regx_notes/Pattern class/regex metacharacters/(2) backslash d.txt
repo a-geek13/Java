@@ -1,0 +1,1 @@
+\d : Any digits, short of [0-9]
